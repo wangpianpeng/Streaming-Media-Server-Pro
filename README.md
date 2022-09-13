@@ -133,7 +133,7 @@ TRUNCATE video;
 ``` 
 #### python部署:  
 ``` code
-git clone https://github.com/239144498/Streaming-Media-Server-Pro.git
+git clone https://github.com/wangpianpeng/Streaming-Media-Server-Pro.git
 ```
 ##### 安装依赖
 ``` code
